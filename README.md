@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I'm Dani from Ecuador 👋👋
-- 🖥️ I've been coding in JavaScript and Ruby for over 2 years
-- 🍅 I'm the creator of [PlannyWise App](https://plannywise.onrender.com/), a web app that helps you stay productive and beat procrastination
-- 🧠 I'm learning Docker at Boot.dev at the moment
+- 🖥️ I've been coding in `JavaScript` and `Ruby` for over 2 years
+- 🍅 I'm the creator of [PlannyWise App](https://plannywise.onrender.com/), _a web app that helps you stay productive and beat procrastination_
+- 🧠 I'm learning `Docker` at the moment
 - 👀 Connect with me on [LinkedIn](https://www.linkedin.com/in/danifromec/) or check out my [CV](https://docs.google.com/document/d/1X8DjKagIwbEVmdFDKQOtPPxDby2taCNWSk1vRFQkBuM)
