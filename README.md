@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **danifromecuador/danifromecuador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, I'm Dani from Ecuador 👋👋
+- 🖥️ I've been coding in JavaScript and Ruby for over 2 years
+- 🍅 I'm the creator of [PlannyWise App](https://plannywise.onrender.com/), a web app that helps you stay productive and beat procrastination
+- 🧠 I'm learning Docker at Boot.dev at the moment
+- 👀 Connect with me on [LinkedIn](https://www.linkedin.com/in/danifromec/) or check out my [CV](https://docs.google.com/document/d/1X8DjKagIwbEVmdFDKQOtPPxDby2taCNWSk1vRFQkBuM)
